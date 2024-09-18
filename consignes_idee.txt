@@ -1,0 +1,36 @@
+Projet marketing---usage de la données
+
+=> Créer une entreprise
+
+==== Mickey pneumatics
+
+-- Vente de pneus
+--
+
+----Marketing
+
+=> Mettez en place une stratégie
+
+-- Affiches dans le metro
+-- Communication radio
+-- Station service
+
+=> stratégie de segmentation clients
+
+-- RFM
+-- 4 segmentations :
+	-
+	-
+	-
+	-
+
+
+=> campagne d'animation pour le black friday
+
+
+----Metrics
+=> modèles d'attribution de la conversion
+
+
+
+=> Qui fait quoi ?
